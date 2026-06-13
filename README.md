@@ -61,6 +61,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2&section=header"/>
 
+### 📈 WakaTime Activity&nbsp;&nbsp;<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25" align="absmiddle">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0FFA6&height=2&width=200"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=orewanj&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2&section=header"/>
+
 ### 💬 Dev Quote&nbsp;&nbsp;<img src="https://media.giphy.com/media/3o6gaqfHksgKxiXQk0/giphy.gif" width="25" align="absmiddle">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0FFA6&height=2&width=150"/>
 
